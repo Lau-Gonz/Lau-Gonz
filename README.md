@@ -5,7 +5,7 @@ I'm working in Twnel, developing Artificial Intelligence applications. My areas 
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://linkedin.com/in/laura-valentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-valentina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laura-valentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/laura-valentina" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack
@@ -13,8 +13,10 @@ I'm working in Twnel, developing Artificial Intelligence applications. My areas 
 ### Programming Languages
 
 <div align="left">
+  <a>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+  </a>
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
